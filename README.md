@@ -17,13 +17,13 @@
 - [:house: Modu-house](#-modu-house)
     - [MiniProject Team 2](#miniproject-team-2)
   - [:jigsaw: Index](#-index)
-  - [1. 프로젝트 소개 :house:](#1-프로젝트-소개-)
+  - [1. 프로젝트 소개](#1-프로젝트-소개-)
   - [2. 기술 스택 :hammer:](#2-기술-스택-)
   - [3. 기능 소개](#4-기능-소개)
   - [4. Notion :notebook_with_decorative_cover:](#4-notion-)
   - [5. Github :cat:](#5-github-)
 
-## 1. 프로젝트 소개 :house:
+## 1. 프로젝트 소개
 - 설명 : 서울 자취러를 위한 모두의 집
 - 기간 : 2022.12.16 ~ 2022.12.22
 - 프론트 팀원 : <br>
