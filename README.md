@@ -30,7 +30,7 @@
 
 | -   | NAME   | GITHUB                               |
 | --- | ------ | ------------------------------------ |
-| BE  | 이상현 | https://github.com/synuns            |
+| BE  | 이상현 | https://github.com/Sangtriever       |
 | BE  | 신승호 | https://github.com/hongdangmoo49     |
 | BE  | 황미경 | https://github.com/beautifulseoul    |
 
